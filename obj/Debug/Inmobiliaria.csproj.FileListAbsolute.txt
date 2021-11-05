@@ -1,0 +1,10 @@
+C:\Users\Paula\source\repos\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+C:\Users\Paula\source\repos\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+C:\Users\Paula\source\repos\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+C:\Users\Paula\source\repos\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\Inmobiliaria\obj\Debug\Inmobiliaria.BotonPrecio.resources
+C:\Users\Paula\source\repos\Inmobiliaria\obj\Debug\Inmobiliaria.Properties.Resources.resources
+C:\Users\Paula\source\repos\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.GenerateResource.cache
+C:\Users\Paula\source\repos\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+C:\Users\Paula\source\repos\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
